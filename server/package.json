@@ -1,0 +1,9 @@
+{
+    "name": "graphql-ex",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "@apollo/server": "^5.5.1",
+        "graphql": "^16.15.0"
+    }
+}
